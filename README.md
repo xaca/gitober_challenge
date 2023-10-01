@@ -17,6 +17,10 @@ Everyday we have a challenge, try to do it, and share your results as a PR in th
 9. Card container for each GOT house
 10. Shopping card to collect cards for the last day challenge, use adam's family style
 11. Design using CSS position of Frankestein
+12. Program that web scraping from IMDb The Top 100 Halloween movies of All-time and listed in a page
+13. Pagination for last day list, use a bloody font
+14. Search bar to look into TOP 100 movies, use pagination
+15. HTML5 app that allow to design a monster using different params like eyes, mouths, hats, faces..
 
 
 Bonus: Translate this readme file to another language
