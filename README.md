@@ -4,7 +4,7 @@ This is a daily challenge for everybody that want to share some creations during
 
 Everyday we have a challenge, try to do it, and share your results as a PR in this repository, use the correct folder for each day, remember you could ask for help. Chat GPT and other tools would be welcome to acomplish task in the list. 
 
-## Official 2023 prompt list, Create a
+## Official 2024 prompt list, Create a
 
 1. Class diagram inspire in Halloween movies like Monster Squad, E.T, Goonies...
 2. Flow diagram for an algorith that explain how to collect candies in halloween
@@ -24,4 +24,7 @@ Everyday we have a challenge, try to do it, and share your results as a PR in th
 16. JSON file with your favorite cast for halloween movies, obviously you must include Jason Voorhees
 
 
-Bonus: Translate this readme file to another language
+## Bonus: 
+
+- Translate this readme file to another language
+- Edit index.html with some spooky information about hacktober fest 👻
