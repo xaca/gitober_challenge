@@ -4,6 +4,8 @@ This is a daily challenge for everybody that want to share some creations during
 
 Everyday we have a challenge, try to do it, and share your results as a PR in this repository, use the correct folder for each day, remember you could ask for help. Chat GPT and other tools would be welcome to acomplish task in the list. 
 
+Thank you, for your contributions, please consider to star this repository. 🌟
+
 ## Official 2024 prompt list, Create a
 
 1. Class diagram inspire in Halloween movies like Monster Squad, E.T, Goonies...
