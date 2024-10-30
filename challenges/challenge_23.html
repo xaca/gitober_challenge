@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ojos que Siguen el Cursor</title>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #2c3e50;
+    overflow: hidden;
+    margin: 0;
+  }
+
+  .eye-container {
+    display: flex;
+    gap: 20px;
+  }
+
+  .eye {
+    width: 80px;
+    height: 80px;
+    background-color: #fff;
+    border-radius: 50%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  }
+
+  .pupil {
+    width: 30px;
+    height: 30px;
+    background-color: #000;
+    border-radius: 50%;
+    position: absolute;
+    transition: transform 0.1s;
+  }
+</style>
+</head>
+<body>
+  <div class="eye-container">
+    <div class="eye">
+      <div class="pupil"></div>
+    </div>
+    <div class="eye">
+      <div class="pupil"></div>
+    </div>
+  </div>
+
+<script>
+  const eyes = document.querySelectorAll('.eye');
+  document.addEventListener('mousemove', (event) => {
+    eyes.forEach(eye => {
+      const rect = eye.getBoundingClientRect();
+      const eyeCenterX = rect.left + rect.width / 2;
+      const eyeCenterY = rect.top + rect.height / 2;
+      const angle = Math.atan2(event.clientY - eyeCenterY, event.clientX - eyeCenterX);
+      const pupil = eye.querySelector('.pupil');
+      const pupilMoveDistance = 15;
+      pupil.style.transform = `translate(${Math.cos(angle) * pupilMoveDistance}px, ${Math.sin(angle) * pupilMoveDistance}px)`;
+    });
+  });
+</script>
+</body>
+</html>
