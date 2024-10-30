@@ -22,6 +22,7 @@ Everyday we have a challenge, try to do it, and share your results as a PR in th
 14. Search bar to look into TOP 100 movies, use pagination
 15. HTML5 app that allow to design a monster using different params like eyes, mouths, hats, faces..
 16. JSON file with your favorite cast for halloween movies, obviously you must include Jason Voorhees
+17. Generate a random name based on famous movies with JavaScript or TypeScript
 
 
 Bonus: Translate this readme file to another language
