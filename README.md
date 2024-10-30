@@ -31,7 +31,8 @@ Everyday we have a challenge, try to do it, and share your results as a PR in th
 23. Create HTML/CSS eyes that follow the movement of the cursor.
 24. A JavaScript button that when clicked darkens the page leaving only a small circle visible around the cursor.
 25. Add an HTML button that plays a scary sound when clicked.
-26. Use HTML/CSS to make flying bats appear as the background of the page. 27. Show how many days until Halloween in a simple counter.
+26. Use HTML/CSS to make flying bats appear as the background of the page.
+27. Show how many days until Halloween in a simple counter.
 28. Use only CSS to give some text a dripping "blood" effect.
 29. A HTML/CSS/JS checklist with typical Halloween tasks, like decorating or buying candy.
 30. A simple CSS background with randomly flashing pumpkins.
