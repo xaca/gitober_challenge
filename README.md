@@ -22,7 +22,21 @@ Everyday we have a challenge, try to do it, and share your results as a PR in th
 14. Search bar to look into TOP 100 movies, use pagination
 15. HTML5 app that allow to design a monster using different params like eyes, mouths, hats, faces..
 16. JSON file with your favorite cast for halloween movies, obviously you must include Jason Voorhees
-
+17. An HTML form with a Halloween design to sign up for horror newsletters.
+18. A JavaScript program that combines words to create random monster names.
+19. An HTML/CSS button that when clicked displays a Halloween "trick" or "treat."
+20. A simple JavaScript counter that increments every time the user clicks on a candy image.
+21. Use CSS to create a floating fog effect on the background of a page.
+22. A script that combines phrases to generate random little scary stories.
+23. Create HTML/CSS eyes that follow the movement of the cursor.
+24. A JavaScript button that when clicked darkens the page leaving only a small circle visible around the cursor.
+25. Add an HTML button that plays a scary sound when clicked.
+26. Use HTML/CSS to make flying bats appear as the background of the page. 27. Show how many days until Halloween in a simple counter.
+28. Use only CSS to give some text a dripping "blood" effect.
+29. A HTML/CSS/JS checklist with typical Halloween tasks, like decorating or buying candy.
+30. A simple CSS background with randomly flashing pumpkins.
+31. When scrolling a page, have a little ghost message appear that says "Boo!".
+32. A CSS to change the cursor to a spider web when hovering over certain images.
 
 ## Bonus: 
 
