@@ -38,6 +38,10 @@ Everyday we have a challenge, try to do it, and share your results as a PR in th
 30. A simple CSS background with randomly flashing pumpkins.
 31. When scrolling a page, have a little ghost message appear that says "Boo!".
 32. A CSS to change the cursor to a spider web when hovering over certain images.
+33. Use HTML/CSS/JS to create a textbox that generates random spells by combining verbs, nouns, and magical items.
+34. Design a flip card in the shape of a coffin with a spooky message on the back using HTML/CSS.
+35. Build a horror movie trivia quiz that presents spooky facts with each correct answer.
+36. Create a button that changes the background to random eerie colors with each click using HTML/CSS/JS.
 
 ## Bonus: 
 
