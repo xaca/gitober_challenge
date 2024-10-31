@@ -53,3 +53,7 @@ Thank you, for your contributions, please consider to star this repository. 🌟
 ## Pull request guide
 
 [![Pull request - hacktober fest](https://res.cloudinary.com/marcomontalbano/image/upload/v1730401457/video_to_markdown/images/youtube--8MQN0U1AwgU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=8MQN0U1AwgU "Pull request - hacktober fest")
+
+## References
+
+- [Crear markdown para videos de youtube](https://www.manelrodero.com/blog/como-incluir-videos-de-youtube-en-markdown)
